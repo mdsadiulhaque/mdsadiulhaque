@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="30px">, I am Md Sadiul Haque </h1>
 
-<p align="center" width="150px"> I have just kickstarted my career as a software enginnering intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
+<p align="center" width="150px"> I have just kickstarted my career as a data science engineering intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
 
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/></p>
