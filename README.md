@@ -37,7 +37,7 @@
 <a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/md_sadiul_haque/?hl=en"><img src="https://img.shields.io/badge/-Instagram-FF00DC?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/milkcandey09"><img src="https://img.shields.io/badge/-YouTube:Milk candey-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube:Md Sadiul Haque-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
   <a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
   <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
    <a href="https://easysobkisu.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-F18F22?style=for-the-badge&logo=blogger&logoColor=white"/></a>
