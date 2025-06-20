@@ -4,9 +4,11 @@
 🚀 **CFO at [ShushilLife.com](https://shushillife.com)**  
 💼 **Data Science Engineer** | 🎓 **BSc in CSE @Dhaka International University**
 <p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&show_icons=true&theme=chartreuse-dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark" width="40%"/>
+</p>
 
 
 ### 🧠 What I Do
@@ -34,11 +36,7 @@
 > 🔗 More on [GitHub Projects](https://github.com/mdsadiulhaque?tab=repositories)
 
 
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&show_icons=true&theme=chartreuse-dark" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark" width="40%"/>
-</p>
+
 
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/mdsadiulhaque/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
