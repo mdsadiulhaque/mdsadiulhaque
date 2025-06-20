@@ -2,7 +2,7 @@
 <h1 align="center">Hi<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="50px">I am Md Sadiul Haque </h1>
 
 🚀 **CFO at [ShushilLife.com](https://shushillife.com)**  
-💼 **Data Science Expert** | 🎓 **BSc in CSE @Dhaka International University**  
+💼 **Data Science Engineer** | 🎓 **BSc in CSE @Dhaka International University**
 <p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
