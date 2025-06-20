@@ -7,16 +7,13 @@ p align="center"><b>Visitor's Count</b></p>
 <p align="center"><img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
 <p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=mdsadiulhaque&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
----
+
 
 ### 🧠 What I Do
 - Build interactive dashboards & business reports 📊
 - Explore Machine Learning & AI applications 🤖
 - Analyze data for smart decision-making 📈
 - Lead startup finance & product vision 💡
-
----
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
@@ -26,7 +23,6 @@ p align="center"><b>Visitor's Count</b></p>
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
----
 
 ### 📌 Featured Projects
 - 🏅 **Olympic Medals Dashboard** – Power BI
@@ -35,7 +31,6 @@ p align="center"><b>Visitor's Count</b></p>
 
 > 🔗 More on [GitHub Projects](https://github.com/mdsadiulhaque)
 
----
 
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/mdsadiulhaque/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
@@ -46,7 +41,7 @@ p align="center"><b>Visitor's Count</b></p>
 <a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 <a href="https://shushillife.com.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Shushillife-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
----
+
 
 <p align="center">
   🚀 _Turning Data Into Insights — and Ideas Into Impact._
