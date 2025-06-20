@@ -34,6 +34,12 @@
 > 🔗 More on [GitHub Projects](https://github.com/mdsadiulhaque?tab=repositories)
 
 
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&show_icons=true&theme=chartreuse-dark" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark" width="40%"/>
+</p>
+
 ### 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/mdsadiulhaque/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
