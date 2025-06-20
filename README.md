@@ -29,7 +29,7 @@ p align="center"><b>Visitor's Count</b></p>
 - 🧠 **Customer Segmentation with Clustering** – Python
 - 📈 **Business KPI Dashboard** – Power BI
 
-> 🔗 More on [GitHub Projects](https://github.com/mdsadiulhaque)
+> 🔗 More on [GitHub Projects](https://github.com/mdsadiulhaque?tab=repositories)
 
 
 ### 🌐 Connect with Me
