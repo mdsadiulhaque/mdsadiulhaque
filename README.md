@@ -5,7 +5,7 @@
 💼 **Data Science Engineer** | 🎓 **BSc in CSE @Dhaka International University**
 <p align="center"><b>Visitor's Count</b></p>
 
-📊 ** GitHub Stats **
+📊 **GitHub Stats**
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&show_icons=true&theme=chartreuse-dark" width="48%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark" width="40%"/>
@@ -40,14 +40,17 @@
 
 
 ### 🌐 Connect with Me
-<a href="https://www.linkedin.com/in/mdsadiulhaque/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/mdsadiulhaque/?hl=en"><img src="https://img.shields.io/badge/-Instagram-FF00DC?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<p>
+  <a href="https://www.linkedin.com/in/mdsadiulhaque"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.instagram.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+  <a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  <a href="https://x.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-X-000000?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+  <a href="https://shushillife.com/u/mdsadiulhaque"><img src="https://img.shields.io/badge/-ShushilLife.com-3b5998?style=for-the-badge&logo=internetexplorer&logoColor=white"/></a>
+  <a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdsadiulhaque1"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-<a href="https://x.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-X-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://shushillife.com/u/mdsadiulhaque"><img src="https://img.shields.io/badge/-Shushillife-09BEF5?style=for-the-badge&logo=Shushillife&logoColor=verdurous"/></a>
+</p>
+
 
 
 <p align="center">
