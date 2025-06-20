@@ -1,4 +1,5 @@
 ### 👋 Hi there, I'm **Md Sadiul Haque**
+<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="150px">I am Md Sadiul Haque </h1>
 
 🚀 **CFO at [ShushilLife.com](https://shushillife.com)**  
 💼 **Data Science Expert** | 🎓 **CSE Engineer @ Dhaka International University**  
@@ -41,10 +42,10 @@ p align="center"><b>Visitor's Count</b></p>
 <a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/md_sadiul_haque/?hl=en"><img src="https://img.shields.io/badge/-Instagram-FF00DC?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-  <a href="https://shushillife.com.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Shushillife-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a
+<a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
+<a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+<a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://shushillife.com.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Shushillife-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
 ---
 
 <p align="center">
