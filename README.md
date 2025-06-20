@@ -4,6 +4,9 @@
 🚀 **CFO at [ShushilLife.com](https://shushillife.com)**  
 💼 **Data Science Engineer** | 🎓 **BSc in CSE @Dhaka International University**
 <p align="center"><b>Visitor's Count</b></p>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/>
+</p>
 
 📊 **GitHub Stats**
 <p align="center">
