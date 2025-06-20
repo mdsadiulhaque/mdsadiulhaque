@@ -1,51 +1,45 @@
-<p align="center"><img src="assets/im-1.png"></p>
-<p align="center"><img src="assets/Cover.png"></p>
+### 👋 Hi there, I'm **Md Sadiul Haque**
 
-<h1 align="center">Hi,<img src="https://raw.githubusercontent.com/KevinPatel04/KevinPatel04/master/Hi.gif" width="150px">I am Md Sadiul Haque </h1>
-
-<p align="center" width="150px"> I have just kickstarted my career as a data science engineering intern with study Computer Science and Engineering Dept. at Dhaka International University,Bangladesh</p>
-
-<p align="center"><b>Visitor's Count</b></p>
-<p align="center"><img src="https://profile-counter.glitch.me/mdsadiulhaque/count.svg" alt="visitor badge"/></p>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdsadiulhaque&layout=compact&hide=TSQL&theme=chartreuse-dark"></p>
-<p align="center" ><img src="https://github-readme-stats.vercel.app/api?username=mdsadiulhaque&count_private=true&show_icons=true&&theme=chartreuse-dark&include_all_commits=true" width="400"></p> 
-<p align="center" ><img src="https://github-readme-streak-stats.herokuapp.com?user=mdsadiulhaque&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D"></p>
-
-### 🛠 &nbsp;Tech Stack
-
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Jupyter](https://img.shields.io/badge/-jupyter-05122A?style=flat&logo=Jupyter)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Sublime Text](https://img.shields.io/badge/-Sublime%20Text-05122A?style=flat&logo=sublime-text&logoColor=FF9800)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-05122A?style=flat&logo=android-studio&logoColor=3DDC84)&nbsp;
-![Google Colab](https://img.shields.io/badge/-Google%20Colab-05122A?style=flat&logo=google-colab&logoColor=F9AB00)&nbsp;
-![YouTube](https://img.shields.io/badge/-YouTube%20Colab-05122A?style=flat&logo=youtube-colab&logoColor=F9AB00)&nbsp;
-![Arduino](https://img.shields.io/badge/-Arduino-05122A?style=flat&logo=arduino&logoColor=00979D)&nbsp;
-
-
-### :link: &nbsp;Connect with me
-
-<p align="center">
-<a href="https://www.linkedin.com/in/mdsadiulhaque/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:mdsadiulhaque@gmail.com"><img src="https://img.shields.io/badge/-gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/md_sadiul_haque/?hl=en"><img src="https://img.shields.io/badge/-Instagram-FF00DC?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-<a href="https://www.facebook.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Facebook Profile-1DA1F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube:Md Sadiul Haque-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-  <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-   <a href="https://easysobkisu.blogspot.com/"><img src="https://img.shields.io/badge/-Blogger-F18F22?style=for-the-badge&logo=blogger&logoColor=white"/></a>
-  
-</p>
-
+🚀 **CFO at [ShushilLife.com](https://shushillife.com)**  
+💼 **Data Science Intern** | 🎓 **CSE Student @ Dhaka International University**  
 
 ---
-Credit: [Md Sadiul Haque](https://github.com/mdsadiulhaque)
 
-Last Updated On: 10/20/2021
+### 🧠 What I Do
+- Build interactive dashboards & business reports 📊
+- Explore Machine Learning & AI applications 🤖
+- Analyze data for smart decision-making 📈
+- Lead startup finance & product vision 💡
+
+---
+
+### 🛠️ Tech Stack
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=000)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+- 🏅 **Olympic Medals Dashboard** – Power BI
+- 🧠 **Customer Segmentation with Clustering** – Python
+- 📈 **Business KPI Dashboard** – Power BI
+
+> 🔗 More on [GitHub Projects](https://github.com/mdsadiulhaque)
+
+---
+
+### 🌐 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mdsadiulhaque)
+[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mdsadiulhaque@gmail.com)
+
+---
+
+<p align="center">
+  🚀 _Turning Data Into Insights — and Ideas Into Impact._
+</p>
+
+<!-- Last updated: June 2025 -->
