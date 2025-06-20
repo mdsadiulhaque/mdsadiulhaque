@@ -40,7 +40,7 @@
 <a href="https://www.youtube.com/@mdsadiulhaque"><img src="https://img.shields.io/badge/-YouTube-F50909?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 <a href="https://www.facebook.com/sadiulhaquefahad"><img src="https://img.shields.io/badge/-Facebook Page-F5AD09?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 <a href="https://twitter.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Twitter-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://shushillife.com.com/mdsadiulhaque"><img src="https://img.shields.io/badge/-Shushillife-09BEF5?style=for-the-badge&logo=twitter&logoColor=white"/></a>
+<a href="https://shushillife.com/u/mdsadiulhaque"><img src="https://img.shields.io/badge/-Shushillife-09BEF5?style=for-the-badge&logo=twitter&logoColor=blue"/></a>
 
 
 <p align="center">
